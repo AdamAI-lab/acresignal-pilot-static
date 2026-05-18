@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://orchardscouting.com/sitemap.xml
+Sitemap: https://getacresignal.com/sitemap.xml
