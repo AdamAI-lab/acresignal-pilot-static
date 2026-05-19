@@ -1,0 +1,10 @@
+{
+  "app": "AcreSignal",
+  "builtAt": "2026-05-19T13:36:14.437Z",
+  "sourceCommit": "f2d289312e8a108662938792fe0cbae3c52021fc",
+  "shortSha": "f2d289312e8a",
+  "branch": "main",
+  "dirty": false,
+  "artifact": "dist",
+  "version": "f2d289312e8a"
+}
