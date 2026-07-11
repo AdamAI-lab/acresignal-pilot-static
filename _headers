@@ -1,6 +1,31 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; connect-src 'self' https://*.supabase.co wss://*.supabase.co https://api.weather.gov https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; worker-src 'self' blob:; font-src 'self' data:; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://wrltmyhbvzauzaohyuqi.supabase.co https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; connect-src 'self' https://wrltmyhbvzauzaohyuqi.supabase.co wss://wrltmyhbvzauzaohyuqi.supabase.co https://api.weather.gov https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; frame-src https://challenges.cloudflare.com; worker-src 'self' blob:; font-src 'self' data:; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
+  Strict-Transport-Security: max-age=31536000
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  X-Permitted-Cross-Domain-Policies: none
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: geolocation=(self), camera=(self), microphone=(), payment=(), usb=(), browsing-topics=()
+
+/index.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/manifest.webmanifest
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/build-meta.json
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/hosted-release.json
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable

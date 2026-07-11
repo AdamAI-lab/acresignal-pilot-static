@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "deployTarget": "production",
+  "publicSiteUrl": "https://acresignal.onrender.com",
+  "supabaseProjectRef": "wrltmyhbvzauzaohyuqi",
+  "cloudWritesEnabled": false,
+  "publicSignupLeadCaptureEnabled": false,
+  "sourceCommit": "21020798875452741cf05a76e4cabbe5551ba3ce",
+  "dirty": false,
+  "files": [
+    {
+      "path": "_headers",
+      "bytes": 1872,
+      "sha256": "669a8b3985c44a52aeff649ab1e527645384ab1b169be7a761c35c873fb9bc42"
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "bytes": 3529,
+      "sha256": "9ba7ec0dd4e18f0ffbe842f501c155fa9184cd11cda1761aa7724051d3799e9c"
+    },
+    {
+      "path": "assets/AcreSignalCommandMenu-DZIz6bwn.js",
+      "bytes": 7950,
+      "sha256": "b60ff96b60c6ca7f9df9883fabf930ff713c4428bd553f65565a543fbdbf8896"
+    },
+    {
+      "path": "assets/FieldSetupTool-Phw7Exd1.js",
+      "bytes": 9009,
+      "sha256": "ea1127af369f8b5010fc58bff1bb3ff3797192ca5ee6160465689a708b6786a1"
+    },
+    {
+      "path": "assets/MapWorkspace-L9VLA6w9.js",
+      "bytes": 99631,
+      "sha256": "5c9c2f014a3685ab3d0a996e1c2c7c48a81ac59111ebec275ecb2d484ebfd2e7"
+    },
+    {
+      "path": "assets/MissionCardsWorkbench-Dq1EXIVa.js",
+      "bytes": 23118,
+      "sha256": "6c68a4db688039afe8bdf9794dbddcbb1238970a474774c56041645b732d98ce"
+    },
+    {
+      "path": "assets/NowAnalysisWorkbench-BthqTuov.js",
+      "bytes": 63299,
+      "sha256": "90c1fc7169593a22aa3118e0aedb41941bb129762e1f7b9f7bb70e3a81947a02"
+    },
+    {
+      "path": "assets/OperationsPanel-Bhh1iR4z.css",
+      "bytes": 11691,
+      "sha256": "ee93d8497d1ae933209d4f28aaf747b0b53fc8d189e4a376e9540de8a97e966b"
+    },
+    {
+      "path": "assets/OperationsPanel-CntdBfKq.js",
+      "bytes": 225943,
+      "sha256": "2f996f72820ff8d843380953ff20b0cf6aa7de12638f296f92022db00d4c5c4c"
+    },
+    {
+      "path": "assets/PlatformControlCenter-JQpXRX3J.js",
+      "bytes": 25327,
+      "sha256": "aeb88883e221352058cecd43add6463fcfd78c9af443997f5f3209352f6be9e1"
+    },
+    {
+      "path": "assets/SetupWizard-zuzJ9dNi.js",
+      "bytes": 12557,
+      "sha256": "c70f43c5e21cb9bc12ac976c02b68168ecff0feef3a4ad7a1ef91a90375a3df6"
+    },
+    {
+      "path": "assets/TopBar-CX17on2n.js",
+      "bytes": 6755,
+      "sha256": "619c6c6894556dcfc70536f1cd7e2c283c47abb919a202f7651af1f47ea95b67"
+    },
+    {
+      "path": "assets/driveMode-DrIkvWFv.js",
+      "bytes": 23370,
+      "sha256": "d40f77f4de99c09cf54ce61afe769cd36a559fc84fcf48b9d1e7f5af79ab7820"
+    },
+    {
+      "path": "assets/html2canvas.esm-DXEQVQnt.js",
+      "bytes": 201041,
+      "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
+    },
+    {
+      "path": "assets/imageryLayers-DpeUQG8r.js",
+      "bytes": 5700,
+      "sha256": "c4ed88d08090f73ec342eb1b1b362671fb11f0b4f39010a5e7818ed2f41b2fc0"
+    },
+    {
+      "path": "assets/index-BtFdxFvQ.js",
+      "bytes": 496945,
+      "sha256": "258da201757f19d9fc80bd7b04b54f496b30b5db17de40b37faee2997dd27a15"
+    },
+    {
+      "path": "assets/index-DM492Ubt.css",
+      "bytes": 507807,
+      "sha256": "068742cc193c05a5702d33c7e50dcc0f6be066972c29064229ed7efc2a586841"
+    },
+    {
+      "path": "assets/index.es-BfkZTYeC.js",
+      "bytes": 158864,
+      "sha256": "276c6e07329dd29ea574cdc8e8002513085eea3ac0bd2e197b0ed02209eab534"
+    },
+    {
+      "path": "assets/maplibre-C5UtkUnN.js",
+      "bytes": 1052963,
+      "sha256": "9bf75c7f384a0e6b0e8f4cb7f80f594ca5a6484afa00f2efe90c743eabdb4ba8"
+    },
+    {
+      "path": "assets/maplibre-DNVN2dqC.css",
+      "bytes": 69918,
+      "sha256": "768b9ff0c135536afbbee9f20232ac261e8b2b89ce60a29f838024be9dd172e3"
+    },
+    {
+      "path": "assets/preload-helper-CVfkMyKi.js",
+      "bytes": 1254,
+      "sha256": "85e5bce520b05cd220340e7815428be99114786ea26185b6c0a7e9efc8182bf5"
+    },
+    {
+      "path": "assets/react-DcjTN9Xm.js",
+      "bytes": 224015,
+      "sha256": "3ac9fffa84b6c25cd8ad907190aad8d1fcb0d2f2edb0a281d744463de1d77fe9"
+    },
+    {
+      "path": "assets/report-uJI-8mX7.js",
+      "bytes": 10642,
+      "sha256": "842f229317d5c3327ac5649081c9f23e62680ea142d8a980cd9a584488bf9de4"
+    },
+    {
+      "path": "assets/reports-Dgwrqs7i.js",
+      "bytes": 458475,
+      "sha256": "5ba4c0d1275ecb6d465872158ffab7c8a82d672f1f0750eecd29e8a333d88539"
+    },
+    {
+      "path": "assets/supabase-Czg8Of_I.js",
+      "bytes": 212338,
+      "sha256": "612df502c8ec8f517dd349ffbb78f3f56eb9e8c6c5b1a27a08247d49da6a032c"
+    },
+    {
+      "path": "assets/turf-D1goP_Tt.js",
+      "bytes": 3427,
+      "sha256": "7baaab0a2b293b28c9fd817bf6d82403559770df61b1d21ed4e8319cf5a19186"
+    },
+    {
+      "path": "build-meta.json",
+      "bytes": 244,
+      "sha256": "17956da4127d901be3d46fba00aca24f28eef12eb1e575f3c0fdd4ef9aef9c49"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 336,
+      "sha256": "5bfb8a63ded2f2ac25fb72e261b280f8e7284030f4ce5753a2a305f2984527ab"
+    },
+    {
+      "path": "icon-192.png",
+      "bytes": 4547,
+      "sha256": "37663a9d6aa2db780cd38c36e6783c2b24a04d86a5e7ea27398b9563dc78737e"
+    },
+    {
+      "path": "icon-512.png",
+      "bytes": 12997,
+      "sha256": "bf5978ff1fb4641462edba60f7968e0b58b9cd97bf7f7e1a63492ee54a248efd"
+    },
+    {
+      "path": "icon-maskable-512.png",
+      "bytes": 8415,
+      "sha256": "5b6e61ca38fa8acc0b7e34511e80e7bc074862ca2143f8440a6ef3fa5322db93"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2715,
+      "sha256": "dc0d642e87741e12ca0444c500f9df38cab781038625fc3190b0c40b41eba224"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 781,
+      "sha256": "0530d6ad51590510562bb3778e10b6432220477107f0802876ea05ec45a73f25"
+    },
+    {
+      "path": "marketing/acresignal-manager-morning.webp",
+      "bytes": 55710,
+      "sha256": "c36cbda513ffa23cd2d8e02bb177ac92efd9624caa6a10a4a53248d961629c43"
+    },
+    {
+      "path": "marketing/acresignal-mobile-field.webp",
+      "bytes": 36618,
+      "sha256": "5e3ff8d1d4eea27f2f10c7fd3a7f02d81249407c1479b965bd020b5d8456c30a"
+    },
+    {
+      "path": "marketing/acresignal-proof-closeout.webp",
+      "bytes": 61378,
+      "sha256": "8adb467f8f14eecd063c879b9d77ac5149dff171cc0217149bc610db6e7ce633"
+    },
+    {
+      "path": "marketing/acresignal-signal-to-work.webp",
+      "bytes": 110694,
+      "sha256": "7a4d569a43a987181654a898386ffcffecc698ba292aed4844d93fb40bc155d4"
+    },
+    {
+      "path": "marketing/acresignal-social-card.jpg",
+      "bytes": 146496,
+      "sha256": "7a8b2b725efd59dfa2b31c5b9f0ee20e96eb9c9e2c7843784f3c65759133f6a4"
+    },
+    {
+      "path": "marketing/orchard-cab-manager-command.webp",
+      "bytes": 106710,
+      "sha256": "4bb37ba7921d8548c03dc0940c3fea33d94e3b881f7d04ca8d4eea404e69a171"
+    },
+    {
+      "path": "marketing/orchard-cab-proof-closeout.webp",
+      "bytes": 170926,
+      "sha256": "bcad60ccdef258e38f4164cd7c03a7b9ae4ec3b0485717b8af419595e80df7f4"
+    },
+    {
+      "path": "marketing/orchard-cab-reference-hero.webp",
+      "bytes": 160988,
+      "sha256": "c0d4cd331e703ab4fafd1030dfffddf8dfce6d694a472263fc6983e1f4bf2100"
+    },
+    {
+      "path": "marketing/orchard-cab-signal-work.webp",
+      "bytes": 137892,
+      "sha256": "821c5a093c4b04e2ae7bc1a1551878972e2664398391d5111700c04b72db0e33"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 77,
+      "sha256": "f32cc8bdef92c81c62fd5d74d214f2b229d5f1b3e09fda90622e9b6707c13e46"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 274,
+      "sha256": "57df83a831eee66ad83bd46ec4a6567e90e63c75e104c56f20e44293576e64ad"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 3418,
+      "sha256": "7a0fed86df72a3b3c1395126868202ff73625972b5cf5cb9a9afb06c47a343ec"
+    }
+  ]
+}
