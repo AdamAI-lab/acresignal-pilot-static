@@ -5,7 +5,7 @@
   "supabaseProjectRef": "wrltmyhbvzauzaohyuqi",
   "cloudWritesEnabled": false,
   "publicSignupLeadCaptureEnabled": false,
-  "sourceCommit": "3f8f90f5d60f68c7752fbd4b588eabee178eee9f",
+  "sourceCommit": "f36b0bb27f26c9b7f23990eee9cf29c4b9e8451e",
   "dirty": false,
   "files": [
     {
@@ -141,7 +141,7 @@
     {
       "path": "build-meta.json",
       "bytes": 244,
-      "sha256": "fa9e22ecc75f8d01804e54caba40204664418a61a66a3f6f9c44db057a8909b5"
+      "sha256": "4572731b9183f729e8ccefbf00137d23bc7ec7d134a0bfb617eb2bdf63fdaad2"
     },
     {
       "path": "favicon.svg",
