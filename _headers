@@ -11,21 +11,33 @@
 
 /index.html
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /sw.js
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /manifest.webmanifest
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /build-meta.json
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /hosted-release.json
   Cache-Control: no-cache, no-store, must-revalidate
+  Cloudflare-CDN-Cache-Control: no-store
+  CDN-Cache-Control: no-store
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
