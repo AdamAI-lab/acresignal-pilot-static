@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://wrltmyhbvzauzaohyuqi.supabase.co https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; connect-src 'self' https://wrltmyhbvzauzaohyuqi.supabase.co wss://wrltmyhbvzauzaohyuqi.supabase.co https://api.weather.gov https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://imagery.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; frame-src https://challenges.cloudflare.com; worker-src 'self' blob:; font-src 'self' data:; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://wrltmyhbvzauzaohyuqi.supabase.co https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://basemap.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; connect-src 'self' https://wrltmyhbvzauzaohyuqi.supabase.co wss://wrltmyhbvzauzaohyuqi.supabase.co https://telemetry-sandbox.invalid https://api.weather.gov https://services.arcgisonline.com https://*.arcgisonline.com https://gibs.earthdata.nasa.gov https://basemap.nationalmap.gov https://tile.openstreetmap.org https://*.tile.openstreetmap.org https://*.opentopomap.org https://s3.amazonaws.com; frame-src https://challenges.cloudflare.com; worker-src 'self' blob:; font-src 'self' data:; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Strict-Transport-Security: max-age=31536000
@@ -28,6 +28,7 @@
   Cache-Control: no-cache, no-store, must-revalidate
   Cloudflare-CDN-Cache-Control: no-store
   CDN-Cache-Control: no-store
+  Content-Type: application/manifest+json; charset=utf-8
 
 /build-meta.json
   Cache-Control: no-cache, no-store, must-revalidate
