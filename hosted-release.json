@@ -7,13 +7,13 @@
   "investorSandboxEnabled": true,
   "investorMappingSha256": "fa7e0e657884b50e262a88e7196fe11f095c20a05f6fec0b881c90ced6863315",
   "publicSignupLeadCaptureEnabled": false,
-  "sourceCommit": "f8813d184dbe66f7bdc217afabdf93b6f670fbcf",
+  "sourceCommit": "a47638e0e469d870c43b4d4f5ba9ac6731e03cad",
   "dirty": false,
   "files": [
     {
       "path": "_headers",
-      "bytes": 2433,
-      "sha256": "c02f306c6bfb2e54e5fce33326eb865cc6bccfb9415d7b7a8f9594fe1bbbc482"
+      "bytes": 2389,
+      "sha256": "9ae4e05851ddb5aed12d81edd06d282355e154b213bde34da3064ee20ed0fd03"
     },
     {
       "path": "apple-touch-icon.png",
@@ -21,29 +21,29 @@
       "sha256": "9ba7ec0dd4e18f0ffbe842f501c155fa9184cd11cda1761aa7724051d3799e9c"
     },
     {
-      "path": "assets/AcreSignalCommandMenu-xrzYkcj_.js",
+      "path": "assets/AcreSignalCommandMenu-BR6OuKtP.js",
       "bytes": 7955,
-      "sha256": "e75b6ca96cd9ffbc04dffb8415b131d19c0a3a4b9bf3154aed4c3307192fe171"
+      "sha256": "4adcdaa060dc4f7b49cd94c1c0b319255022d8ea2142d410095acd45ac751f25"
     },
     {
-      "path": "assets/FieldSetupTool-fmiBvU5r.js",
+      "path": "assets/FieldSetupTool-Cpmhuycg.js",
       "bytes": 8990,
-      "sha256": "ee40e30f2ae3f69d3cf83bed71523011eafad9e98c1ca993dc62b735d1ee4355"
+      "sha256": "f1454a381404736fa7ba39ef1c7217b865c906900aee5647fc6d2391d43432a0"
     },
     {
-      "path": "assets/MapWorkspace-D5uRAARB.js",
+      "path": "assets/MapWorkspace-DpFEGgfj.js",
       "bytes": 101232,
-      "sha256": "6ffd103cdf0ad3b21b8201c9c22ae1d2e39b468a336a8e0cee42feea6e0b531a"
+      "sha256": "f0ca3879f87d9300e759e8f22c3439cb6e57c104f09d8b8c3b8056bfe8c7f3ea"
     },
     {
-      "path": "assets/MissionCardsWorkbench-Cx12s5Oe.js",
+      "path": "assets/MissionCardsWorkbench-DAiTMhzG.js",
       "bytes": 23395,
-      "sha256": "de2245e51ba3464ed4f1a234683ac5e50aa0a4d9659b71f63414d1e428a3f53a"
+      "sha256": "556b70db8b906b288aa14ca74737ff8102c9ac4e8a249f10a0c741501fdb9120"
     },
     {
-      "path": "assets/NowAnalysisWorkbench-CQoyVV9s.js",
+      "path": "assets/NowAnalysisWorkbench-B_349asv.js",
       "bytes": 99316,
-      "sha256": "3d4984206e11e00ec157409e1ddbce1fd86df828d80ed1744fdf29e7b38c0a67"
+      "sha256": "5cd317d630e362556efa899138b81e506c35c2f21b84e9533c4f5fe4d786b5ac"
     },
     {
       "path": "assets/OperationsPanel-5Vdt6fFA.css",
@@ -51,29 +51,29 @@
       "sha256": "653065c7894bd06061486c321cb740b8c3564298984ad03b814cc72fe11d132c"
     },
     {
-      "path": "assets/OperationsPanel-B05972kk.js",
+      "path": "assets/OperationsPanel-n5YGQDVz.js",
       "bytes": 246523,
-      "sha256": "b3468a5adf37206015fc08fce6c6b58d7a72795baa096d20b916a7caf1d0b9d7"
+      "sha256": "c6c41a65784f0608c52a2326041489ca373246dfa29bad39b39ea6dfa85852d8"
     },
     {
-      "path": "assets/PlatformControlCenter-otFtNhyY.js",
+      "path": "assets/PlatformControlCenter-BzMb7Fh1.js",
       "bytes": 50144,
-      "sha256": "353f0922e81ae63ef3ffc8673afd61fee810053da1faeae790399583b8735b08"
+      "sha256": "7faf2e433353fd55763be03aec0217ac7eedd6c1659b3f1b4b5181844220d5a4"
     },
     {
-      "path": "assets/SetupWizard-35hQG1wL.js",
+      "path": "assets/SetupWizard-COUaJxog.js",
       "bytes": 12598,
-      "sha256": "361c1a3e4d2a00cf778795cf3f22b403aaa8972ed38d6636a1c0220a8ef3f4da"
+      "sha256": "220963423bb2240c64d8dda6fdef70cd3d7673fcf26450713902007b9d756660"
     },
     {
-      "path": "assets/TopBar-DE0bgpPY.js",
+      "path": "assets/TopBar-c1Ko4ugJ.js",
       "bytes": 6884,
-      "sha256": "a95e4acf7b1d7abf352cec87683596e9d4933034dae8051cafb2f9086bd883c7"
+      "sha256": "e14fd7d8f289b0d9aaed68b7d8a695e59011db2a32f0cd90e729c73cb1b07d19"
     },
     {
-      "path": "assets/driveMode-mrnXcp63.js",
+      "path": "assets/driveMode-5hvVBcDh.js",
       "bytes": 23347,
-      "sha256": "ebb7aabe0da9bde587c3e3c54a130143be1a7682abe49ff3a2eb489e0273c5c1"
+      "sha256": "8e168f72d854e3d5d43354e34bae200719b0a0999616a82553aaaa051b8cf403"
     },
     {
       "path": "assets/html2canvas.esm-b3Sm0FqJ.js",
@@ -86,9 +86,9 @@
       "sha256": "ae60e3149a24f83b94adeae1bfb9f00bd54ee964ea5751bd68950b663638f584"
     },
     {
-      "path": "assets/index-CnYlKVMM.js",
+      "path": "assets/index-CkkTpghB.js",
       "bytes": 653236,
-      "sha256": "805e96ba28c32b0e2861eb93bf0e34d51067a199462a7acfc13de7209e958b8a"
+      "sha256": "46f8c143d5db0c07475d0bd70bacc58ae47b1a556aa272d514c0eb23608f36de"
     },
     {
       "path": "assets/index-D63zF_j_.css",
@@ -121,9 +121,9 @@
       "sha256": "90949662d119d95ac8fb219ef1a9e17b14d1e5fcab519412efb60b4868f97900"
     },
     {
-      "path": "assets/report-DXsr-SoD.js",
+      "path": "assets/report-BT3jkNqB.js",
       "bytes": 10728,
-      "sha256": "d48739c33f3dc5e7735c8281ce497ca70143cf118fe810607062ce088549b991"
+      "sha256": "bb8af98665feb4bd704c9b060b4afc98761940e5f6ec8bec730da2c21d03c851"
     },
     {
       "path": "assets/reports-C-iOpfHf.js",
@@ -143,12 +143,12 @@
     {
       "path": "build-meta.json",
       "bytes": 472,
-      "sha256": "76c92f0d103b598d5c8acaaaf337f2945a1e6270afe9a01259ae92b67822f584"
+      "sha256": "fe3f30a9fb9444f95906b5b8f3923a42276e40aabb23e7bc0c81a1da9de49c23"
     },
     {
       "path": "favicon.svg",
-      "bytes": 342,
-      "sha256": "f241a50549fc4cd26bcf5c057b909b19cd7a54e8b2e8c69ea1d7511fe8574213"
+      "bytes": 336,
+      "sha256": "5bfb8a63ded2f2ac25fb72e261b280f8e7284030f4ce5753a2a305f2984527ab"
     },
     {
       "path": "icon-192.png",
@@ -167,13 +167,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 3005,
-      "sha256": "1370b922af6feb9bc0868191eb8a5d9a00a8e21ce214cfa6000911c360f6acba"
+      "bytes": 2952,
+      "sha256": "b2376ea936152b834b88370220d4ee05dbd67ebfd99c56e8815a918680060202"
     },
     {
       "path": "manifest.webmanifest",
-      "bytes": 814,
-      "sha256": "f51f8ccd9c1d387376eafce9c7d0ac4107f7dbc74799a974bc8ef1ce4ed05624"
+      "bytes": 781,
+      "sha256": "0530d6ad51590510562bb3778e10b6432220477107f0802876ea05ec45a73f25"
     },
     {
       "path": "marketing/acresignal-field-command-v3.webp",
@@ -237,18 +237,18 @@
     },
     {
       "path": "robots.txt",
-      "bytes": 81,
-      "sha256": "21fd42d06f21142530f4c1e95413dbf13b595186fb1cea9ec73970b9075a61c0"
+      "bytes": 77,
+      "sha256": "f32cc8bdef92c81c62fd5d74d214f2b229d5f1b3e09fda90622e9b6707c13e46"
     },
     {
       "path": "sitemap.xml",
-      "bytes": 283,
-      "sha256": "d2c311877ed9b524fe783d92dfae4c294d21947a320ebd2a7b4d97c0b3a970b6"
+      "bytes": 274,
+      "sha256": "5362773a0215ce0c4a77b19fa108691e7c9112047c9679987bdc2896827a452f"
     },
     {
       "path": "sw.js",
-      "bytes": 27076,
-      "sha256": "39afcddbb25c7c93b0cfc2813969c8f377e9b0acf1c569969e5a079a6cf43eac"
+      "bytes": 26255,
+      "sha256": "25e1766cc09b8dda9503bd2672ffc06cb141c662aa2b1321e5d8665a2ce2ccce"
     }
   ]
 }
