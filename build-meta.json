@@ -1,14 +1,14 @@
 {
   "app": "AcreSignal",
-  "builtAt": "2026-08-20T21:40:27.485Z",
-  "sourceCommit": "db7d32c3fb4293de43b935a988d4eb825b556adc",
-  "shortSha": "db7d32c3fb42",
-  "branch": "codex/acresignal-live-test",
+  "builtAt": "2026-08-23T04:54:48.000Z",
+  "sourceCommit": "f8813d184dbe66f7bdc217afabdf93b6f670fbcf",
+  "shortSha": "f8813d184dbe",
+  "branch": "",
   "dirty": false,
   "artifact": "dist",
-  "version": "db7d32c3fb42",
-  "artifactGraphSha256": "04fed5903dfcb82dda884cb8b27c9174d547815c47414983a721a05b905cdf90",
-  "artifactGraphBytes": 5833850,
+  "version": "f8813d184dbe",
+  "artifactGraphSha256": "7c336ee4f4f379466a229a7d705cdec43fc4b311d1bb6c16ab2e4b1af0b86ea0",
+  "artifactGraphBytes": 5891470,
   "artifactGraphFileCount": 46,
-  "serviceWorkerCacheStamp": "db7d32c3fb42-04fed5903dfcb82dda884cb8"
+  "serviceWorkerCacheStamp": "f8813d184dbe-7c336ee4f4f379466a229a7d"
 }
